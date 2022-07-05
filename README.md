@@ -5,10 +5,10 @@ Most of them came handy at least once during my real-world engagements.
 
 **Notice:** In order to clone this repository properly - use `--recurse-submodules` switch:
 ```
-git clone --recurse https://github.com/mgeeky/Penetration-Testing-Tools.git
+git clone --recurse https://github.com/trhacknon/Penetration-Testing-Tools.git
 ```
 
-Most of these files were initially shared on my [Gists](https://gist.github.com/mgeeky) but eventually got moved into this repository.
+Most of these files were initially shared on my [Gists](https://gist.github.com/trhacknon) but eventually got moved into this repository.
 
 Every time I stumbled upon a problem that could be better scripted or resolved programatically - I made effort to do just that and thus improve my technical assurance capabilities or to optimize time spent on repetitive actions during projects I've been delivering. 
 
@@ -31,11 +31,11 @@ The base of these tools do not contain any customer/client related sensitive inf
 ### ☕ Show Support ☕
 
 This and other projects are outcome of sleepless nights and **plenty of hard work**. If you like what I do and appreciate that I always give back to the community,
-[Consider buying me a coffee](https://github.com/sponsors/mgeeky) _(or better a beer)_ just to say thank you! 💪 
+[Consider buying me a coffee](https://github.com/sponsors/trhacknon) _(or better a beer)_ just to say thank you! 💪 
 
 ---
 
 ```
-Mariusz Banach / mgeeky, (@mariuszbit)
+Trhacknon , (@trhacknon)
 <mb [at] binary-offensive.com>
 ```
